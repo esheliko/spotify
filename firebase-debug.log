@@ -1,0 +1,25 @@
+[debug] [2021-09-17T10:56:10.620Z] ----------------------------------------------------------------------
+[debug] [2021-09-17T10:56:10.621Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\eshel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-09-17T10:56:10.622Z] CLI Version:   9.18.0
+[debug] [2021-09-17T10:56:10.622Z] Platform:      win32
+[debug] [2021-09-17T10:56:10.622Z] Node Version:  v12.18.3
+[debug] [2021-09-17T10:56:10.623Z] Time:          Fri Sep 17 2021 13:56:10 GMT+0300 (Israel Daylight Time)
+[debug] [2021-09-17T10:56:10.623Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-09-17T10:56:10.669Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-09-17T10:56:10.669Z] > authorizing via signed-in user (esheliko@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Google Drive\Mydia\React\spotify
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
