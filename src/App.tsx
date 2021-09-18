@@ -5,7 +5,7 @@ import { Auth } from './services/Auth';
 import { setGlobalState, useGlobalState } from './globals';
 
 function App() {
-  const [user, setUser] = useGlobalState('user')
+  const [user] = useGlobalState('user')
 
   useEffect(() => {
     Auth.signIn().then(user => {

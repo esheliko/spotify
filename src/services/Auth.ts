@@ -1,4 +1,4 @@
-import { signInWithPopup, signOut, User } from "firebase/auth";
+import { signInWithPopup, User } from "firebase/auth";
 import { auth, authProvider } from "../globals";
 
 export class Auth {
